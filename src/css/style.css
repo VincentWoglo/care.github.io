@@ -271,3 +271,25 @@ footer li{
   background-color: #000;
   padding: 20px;
 }
+.credit{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 15vw;
+  justify-content: space-between;
+}
+.footer-copyright{
+  font-weight: 100;
+  font-size: 1rem;
+}
+.credit-svg{
+  width: 1.9vw;
+  border-radius: 100%;
+}
+.footer-bottom-center{
+  display: flex;
+  justify-content: space-between;
+  width: 80vw;
+  margin: auto;
+  align-items: center;
+}

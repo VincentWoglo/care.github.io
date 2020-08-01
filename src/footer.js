@@ -1,7 +1,11 @@
 import React, { Component } from 'react';
 import './css/style.css';
-
-import logo from './img/logo white.png'
+import Visa from './img/visa-2.svg';
+import logo from './img/logo white.png';
+import MasterCard from './img/mastercard-6.svg';
+import PayPal from './img/paypal-icon.svg';
+import AmericanExpress from './img/american-express-2.svg';
+import DiscoverCard from './img/discover-4.svg';
 
 class Footer extends Component {
     render(){
@@ -59,7 +63,14 @@ class Footer extends Component {
                   </div>
                   <div className="footer-bottom">
                       <div className="footer-bottom-center">
-                          <h1>&copy;</h1>
+                          <h1 className="footer-copyright">&copy; Unice powered by KW</h1>
+                          <div className="credit">
+                              <img src={Visa} className="credit-svg"/>
+                              <img src={MasterCard} className="credit-svg"/>
+                              <img src={PayPal} className="credit-svg"/>
+                              <img src={AmericanExpress} className="credit-svg"/>
+                              <img src={DiscoverCard} className="credit-svg"/>
+                          </div>
                       </div>
                   </div>
               </footer>
