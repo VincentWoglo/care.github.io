@@ -3,6 +3,7 @@ import './css/style.css';
 import Search from './img/iconmonstr-search-thin.svg';
 import ShoppingCart from './img/iconmonstr-shopping-cart-5.svg';
 import UserIcon from './img/iconmonstr-user-male-thin.svg';
+import Hamburger from './img/iconmonstr-menu-thin.svg';
 import logo from './img/logo.png';
 
 class Logo extends Component {
@@ -51,6 +52,7 @@ class SearchShoping extends Component {
       <img src={ShoppingCart} />
       </div>
       <img src={UserIcon} />
+      <img src={Hamburger} className="hamburger" />
     </div>
     </div>
   )}}

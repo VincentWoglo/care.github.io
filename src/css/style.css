@@ -26,6 +26,9 @@ nav{
   justify-content: space-around;
   align-items: center;
 }
+.hamburger{
+  display: none;
+}
 .category-dropdown{
   background-color: #fff;
   padding: 20px;
@@ -69,7 +72,7 @@ nav{
   background-size: cover;
 }
 .collection{
-  transform: translate(22%, 80%);
+  transform: translate(22%, 50%);
   width: 40vw;
 }
 .banner-name{
@@ -102,7 +105,9 @@ nav{
   border: 1px #f1f1f1 solid;
   flex-wrap: nowrap;
 }
-
+.gender-section img{
+  width: 21vw;
+}
 
 
 .Card-title-img{
@@ -118,7 +123,7 @@ nav{
 }
 .Card-items-flex{
   display: flex;
-  width: 70vw;
+  width: 75vw;
   justify-content: space-between;
   margin: auto;
 }
@@ -292,4 +297,73 @@ footer li{
   width: 80vw;
   margin: auto;
   align-items: center;
+}
+@media only screen and (max-width: 1080px){
+  .product-categories{
+    display: none;
+  }
+  .icons{
+    display:  flex;
+    align-items: center;
+    width: 15vw;
+    justify-content: space-between;
+  }
+  .d{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .hamburger{
+    display: block;
+  }
+}
+@media only screen and (max-width: 1357px){
+  .gender-section{
+    width: 80%;
+    transform: translate(13%, 130%);
+  }
+}
+@media only screen and (max-width: 1040px){
+  .gender-section{
+    width: 80%;
+    transform: translate(13%, 170%);
+  }
+}
+@media only screen and (max-width: 1250px){
+  .Card-items-flex{
+    width: 80vw;
+  }
+  .Card-title-img{
+    width: 14vw;
+  }
+}
+@media only screen and (max-width: 880px){
+  .gender-section{
+    width: 90%;
+    transform: translate(6%, 170%);
+  }
+  .gender-section img{
+    width: 25vw;
+  }
+}
+@media only screen and (max-width: 785px){
+  .collection{
+    transform: translate(22%, 20%);
+  }
+  .gender-section{
+    width: 60%;
+    transform: translate(25%, 15%);
+    flex-direction: column;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 0px;
+  }
+  .gender-section img{
+    width: 60vw;
+    margin-bottom: 1.2em;
+  }
+  .new-products{
+    padding-top: 40em;
+  }
 }
