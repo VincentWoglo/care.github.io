@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/care.github.io/static/css/main.4b33e22d.chunk.css",
+    "main.js": "/care.github.io/static/js/main.17bd5977.chunk.js",
+    "main.js.map": "/care.github.io/static/js/main.17bd5977.chunk.js.map",
+    "runtime-main.js": "/care.github.io/static/js/runtime-main.7af44f2a.js",
+    "runtime-main.js.map": "/care.github.io/static/js/runtime-main.7af44f2a.js.map",
+    "static/js/2.75a159e2.chunk.js": "/care.github.io/static/js/2.75a159e2.chunk.js",
+    "static/js/2.75a159e2.chunk.js.map": "/care.github.io/static/js/2.75a159e2.chunk.js.map",
+    "index.html": "/care.github.io/index.html",
+    "precache-manifest.f2a802eec23ede5b5756a882a4c5a56d.js": "/care.github.io/precache-manifest.f2a802eec23ede5b5756a882a4c5a56d.js",
+    "service-worker.js": "/care.github.io/service-worker.js",
+    "static/css/main.4b33e22d.chunk.css.map": "/care.github.io/static/css/main.4b33e22d.chunk.css.map",
+    "static/js/2.75a159e2.chunk.js.LICENSE.txt": "/care.github.io/static/js/2.75a159e2.chunk.js.LICENSE.txt",
+    "static/media/american-express-2.svg": "/care.github.io/static/media/american-express-2.627f5783.svg",
+    "static/media/style.css": "/care.github.io/static/media/discount banner.7deb86fc.jpg",
+    "static/media/discover-4.svg": "/care.github.io/static/media/discover-4.b76f2d7d.svg",
+    "static/media/iconmonstr-menu-thin.svg": "/care.github.io/static/media/iconmonstr-menu-thin.e8e6a41e.svg",
+    "static/media/iconmonstr-search-thin.svg": "/care.github.io/static/media/iconmonstr-search-thin.231de5f3.svg",
+    "static/media/iconmonstr-shopping-cart-5.svg": "/care.github.io/static/media/iconmonstr-shopping-cart-5.d67ac7c3.svg",
+    "static/media/iconmonstr-user-male-thin.svg": "/care.github.io/static/media/iconmonstr-user-male-thin.edc0f77d.svg",
+    "static/media/mastercard-6.svg": "/care.github.io/static/media/mastercard-6.ea46f7a7.svg",
+    "static/media/paypal-icon.svg": "/care.github.io/static/media/paypal-icon.ebc3a88e.svg",
+    "static/media/special product 1.jpg": "/care.github.io/static/media/special product 1.2a1c0a2f.jpg",
+    "static/media/special product 2.jpg": "/care.github.io/static/media/special product 2.7c555ebb.jpg",
+    "static/media/special product 3.jpg": "/care.github.io/static/media/special product 3.1e23aded.jpg",
+    "static/media/special product 4.jpg": "/care.github.io/static/media/special product 4.0e3fb90d.jpg",
+    "static/media/special product 5.jpg": "/care.github.io/static/media/special product 5.17f37469.jpg",
+    "static/media/visa-2.svg": "/care.github.io/static/media/visa-2.d575c9a1.svg",
+    "static/media/women section.jpg": "/care.github.io/static/media/women section.4ef798ad.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7af44f2a.js",
+    "static/js/2.75a159e2.chunk.js",
+    "static/css/main.4b33e22d.chunk.css",
+    "static/js/main.17bd5977.chunk.js"
+  ]
+}
